@@ -1,0 +1,102 @@
+ManifestFileVersion: 0
+CRC: 924604916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4773048ad817622efd919794e141996f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 06e2285923e0b7d419dca5c87ed3db7b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d01e1b798888d5a4c87308980be6612c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllAccessAssets/Objects/Prefabs/sm_Cardboardbox_01.prefab
+- Assets/AllAccessAssets/Effects/Prefabs/PFX_RainDrop.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_Trashcan_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_overheadlight_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_waterpipe_junction_02.prefab
+- Assets/AllAccessAssets/Effects/Prefabs/PFX_Steam.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_ibeam_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_atticvent_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_gasjerrycan_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_ducting_01.prefab
+- Assets/AllAccessAssets/SampleSectors/Prefabs/sm_sector_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_waterpipe_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_waterpipe_90degree_02.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_truss_02.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_woodencrate_01.prefab
+- Assets/AllAccessAssets/SampleSectors/Prefabs/sm_sector_04.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_FloorLight_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_plasticcrate_02.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_wires_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_concreteBase_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_chainlinkendpost_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_oilbottle_01.prefab
+- Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_forklift_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_waterpipe_90degree_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_industrialshelves_04.prefab
+- Assets/Scenes/Factory Prefab.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_doorsclosed_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_concreteTrim_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_Cagelight_01.prefab
+Dependencies:
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_ogg0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga2
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga3

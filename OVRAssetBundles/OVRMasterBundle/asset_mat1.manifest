@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 21519040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c51a5b5427f96757d035c90b1f3d5037
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllAccessAssets/Objects/Materials/M_ConcreteTrim_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_DarkGray.mat
+- Assets/AllAccessAssets/SampleSectors/Meshes/Materials/M_ConcreteWall_01.mat
+- Assets/AllAccessAssets/SampleSectors/Meshes/Materials/M_Cinderblock_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Chainlink_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_propaneTank_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Trims_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Pipes_02.mat
+- Assets/AllAccessAssets/Objects/Materials/M_CardboardBox_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_MetalCeiling_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Glow_01.mat
+- Assets/Materials/G4_3.mat
+- Assets/AllAccessAssets/Objects/Materials/M_StairCase_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_barrel_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_PlasticCrate_02.mat
+- Assets/AllAccessAssets/Effects/Materials/M_Dust_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Trashcan_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Forklift_02.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Overheadlight_01.mat
+- Assets/AllAccessAssets/SampleSectors/Meshes/Materials/M_ConcreteCeiling_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_FloorLight_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Glow_02.mat
+- Assets/AllAccessAssets/Objects/Materials/M_IndustrialShelves_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_MRE_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Truss_01.mat
+- Assets/Materials/PerspectiveFogSmoke.mat
+- Assets/AllAccessAssets/SampleSectors/Meshes/Materials/M_Trims_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_CageLight_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Forklift_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_OpaqueGlass_01.mat
+Dependencies:
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga1
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga2
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga3

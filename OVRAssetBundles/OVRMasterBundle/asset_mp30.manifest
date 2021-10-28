@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1850635197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f00e0788e786ee7b311d4e3cc8a3481
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audio/amazon joey.mp3
+- Assets/Audio/freeTTS B.mp3
+- Assets/Audio/BrianTTS.mp3
+- Assets/Audio/amazon matthew.mp3
+Dependencies: []

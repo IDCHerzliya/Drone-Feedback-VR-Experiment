@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3464557903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 565797298bdfd79a0c8782e9ad932d03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllAccessAssets/Sounds/snd_drips_01.ogg
+- Assets/AllAccessAssets/Sounds/snd_steam_01.ogg
+Dependencies: []

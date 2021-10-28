@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1227323098
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b77ee297f7bcf840a334cff0e6096d15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
+- Assets/Oculus/VR/Resources/OVRMRUnlit.shader
+- Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
+- Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
+- Assets/Oculus/VR/Resources/Cubemap Blit.shader
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/Oculus/VR/Resources/Underlay Impostor.shader
+- Assets/Resources/OVRPlatformToolSettings.asset
+- Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader
+- Assets/Oculus/VR/Resources/Texture2D Blit.shader
+- Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
+Dependencies: []

@@ -1,0 +1,117 @@
+ManifestFileVersion: 0
+CRC: 3687791023
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: asset_resources
+      Dependencies: {}
+    Info_1:
+      Name: scene_factory
+      Dependencies:
+        Dependency_0: asset_prefab0
+        Dependency_1: asset_fbx0
+        Dependency_2: asset_mat0
+        Dependency_3: asset_mat1
+        Dependency_4: asset_mat2
+        Dependency_5: asset_exr0
+        Dependency_6: asset_lighting0
+        Dependency_7: asset_png0
+        Dependency_8: asset_inputactions0
+        Dependency_9: asset_wav0
+        Dependency_10: asset_asset0
+        Dependency_11: asset_mp30
+    Info_2:
+      Name: asset_tga0
+      Dependencies: {}
+    Info_3:
+      Name: asset_tga1
+      Dependencies: {}
+    Info_4:
+      Name: asset_tga2
+      Dependencies: {}
+    Info_5:
+      Name: asset_tga3
+      Dependencies: {}
+    Info_6:
+      Name: asset_prefab0
+      Dependencies:
+        Dependency_0: asset_tga2
+        Dependency_1: asset_tga3
+        Dependency_2: asset_prefab1
+        Dependency_3: asset_fbx0
+        Dependency_4: asset_mat0
+        Dependency_5: asset_mat1
+        Dependency_6: asset_mat2
+        Dependency_7: asset_ogg0
+    Info_7:
+      Name: asset_prefab1
+      Dependencies:
+        Dependency_0: asset_fbx0
+        Dependency_1: asset_mat0
+        Dependency_2: asset_mat1
+        Dependency_3: asset_mat2
+    Info_8:
+      Name: asset_fbx0
+      Dependencies:
+        Dependency_0: asset_mat0
+        Dependency_1: asset_mat1
+        Dependency_2: asset_mat2
+        Dependency_3: asset_shader0
+    Info_9:
+      Name: asset_mat0
+      Dependencies:
+        Dependency_0: asset_tga0
+        Dependency_1: asset_tga1
+        Dependency_2: asset_tga2
+        Dependency_3: asset_png0
+        Dependency_4: asset_shader0
+    Info_10:
+      Name: asset_mat1
+      Dependencies:
+        Dependency_0: asset_tga0
+        Dependency_1: asset_tga1
+        Dependency_2: asset_tga2
+        Dependency_3: asset_tga3
+        Dependency_4: asset_shadergraph0
+        Dependency_5: asset_png0
+        Dependency_6: asset_shader0
+    Info_11:
+      Name: asset_mat2
+      Dependencies:
+        Dependency_0: asset_tga0
+        Dependency_1: asset_tga1
+        Dependency_2: asset_tga2
+        Dependency_3: asset_tga3
+        Dependency_4: asset_png0
+        Dependency_5: asset_shader0
+    Info_12:
+      Name: asset_exr0
+      Dependencies: {}
+    Info_13:
+      Name: asset_shadergraph0
+      Dependencies:
+        Dependency_0: asset_shader0
+    Info_14:
+      Name: asset_lighting0
+      Dependencies: {}
+    Info_15:
+      Name: asset_png0
+      Dependencies: {}
+    Info_16:
+      Name: asset_inputactions0
+      Dependencies: {}
+    Info_17:
+      Name: asset_wav0
+      Dependencies: {}
+    Info_18:
+      Name: asset_ogg0
+      Dependencies: {}
+    Info_19:
+      Name: asset_asset0
+      Dependencies: {}
+    Info_20:
+      Name: asset_mp30
+      Dependencies: {}
+    Info_21:
+      Name: asset_shader0
+      Dependencies: {}

@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1936251665
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4134929dbe08063857deb8e2b3ae26b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6e651bdddca608c77d51fff2e12d033
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllAccessAssets/Objects/Textures/T_ConcreteFloor_02_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Cinderblocks01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_ConcreteBase_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_PlasticCrate_01_N.tga
+- Assets/AllAccessAssets/Effects/Textures/T_DustParticle_01.tga
+- Assets/AllAccessAssets/Objects/Textures/T_FloorLight_01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_ConcreteCeiling_02_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Forklift_02_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_OverheadLight_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_GasJerryCan_01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_ConcreteWall_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Bucket_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_AtticVent_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Forklift_02_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Cinderblocks01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Truss_01_M.tga
+- Assets/AllAccessAssets/Effects/Textures/T_CageLight_CUBE_01.tga
+- Assets/AllAccessAssets/Effects/Textures/T_WaterRipple_01.tga
+- Assets/AllAccessAssets/Objects/Textures/T_ConcreteCeiling_02_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Barrel_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_MRE_01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_ConcreteTrim_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_VintageCrate_01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Pipes_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Wires_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_CageLight_01_E.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Wires_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Forklift_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Barrel_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Door_01_M.tga
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2477547050
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 249adb138eafb35e6058eb8b4a8a71fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllAccessAssets/Objects/Textures/T_Truss_01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Door_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_FloorLight_01_N.tga
+- Assets/AllAccessAssets/Effects/Textures/T_OverheadLight_Cookie.tga
+Dependencies: []

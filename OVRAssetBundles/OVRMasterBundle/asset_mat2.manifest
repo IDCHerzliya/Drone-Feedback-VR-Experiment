@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3460432793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f287fe31076d99062bb24728e9be9dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllAccessAssets/SampleSectors/Meshes/Materials/M_ConcreteFloor_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Ducting_01.mat
+- Assets/AllAccessAssets/Objects/Meshes/Materials/M_ChainlinkPost_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_GasJerryCan_01.mat
+- Assets/Materials/G4_1.mat
+- Assets/AllAccessAssets/Objects/Materials/M_ConcreteWall_01.mat
+- Assets/AllAccessAssets/Objects/Meshes/Materials/M_BaseMetal_01.mat
+- Assets/AllAccessAssets/Effects/Materials/M_WaterDroplet_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_ConcreteCeiling_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Cinderblock_02.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Doors_01.mat
+Dependencies:
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga1
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga2
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga3

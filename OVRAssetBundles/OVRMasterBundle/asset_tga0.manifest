@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3090915066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c6782132fd6ce98f2a72cf54f7c4e16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllAccessAssets/Objects/Textures/T_Ducting_01_C.tga
+- Assets/AllAccessAssets/Effects/Textures/T_WaterDrop_01.tga
+- Assets/AllAccessAssets/Objects/Textures/T_ConcreteCeiling_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_FlLight_01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Window_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_ConcreteFloor_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Ducting_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Trims_01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Glass_N_01.tga
+- Assets/AllAccessAssets/Objects/Textures/T_AtticVent_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_PropaneTank_01_M.TGA
+- Assets/AllAccessAssets/Objects/Textures/T_Trims_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_WoodenCrate01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_StairCase_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Lathe_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_MetalCeiling_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_MetalCeiling_01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_CrumpledPaper01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Trims_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_FlLight_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_OverheadLight_01_E.tga
+- Assets/AllAccessAssets/Objects/Textures/T_TrashCan_01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_PaintSupplies_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Barrel_01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Glass_C_01.tga
+- Assets/AllAccessAssets/Objects/Textures/T_Bucket_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_ConcreteBase_01_C.tga
+- Assets/AllAccessAssets/Objects/Textures/T_WoodenCrate01_N.TGA
+- Assets/AllAccessAssets/Objects/Textures/T_Pipes_01_M.tga
+- Assets/AllAccessAssets/Objects/Textures/T_FlLight_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_PropaneTank_01_C.TGA
+- Assets/AllAccessAssets/Objects/Textures/T_DullMetal_01_N.tga
+- Assets/AllAccessAssets/Objects/Textures/T_ConcreteCeiling_01_C.tga
+Dependencies: []

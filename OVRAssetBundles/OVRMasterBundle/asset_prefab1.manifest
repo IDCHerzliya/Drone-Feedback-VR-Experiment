@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 3012947023
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f53ce13aca2a96308db47861dfce731
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e256ca24432ab39f72c9f69012cdab80
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllAccessAssets/Objects/Prefabs/sm_Chainlinkgate_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_waterpipe_cap_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_waterpipe_02.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_vintagecrate_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_Cardboardbox_02.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_industrialshelves_03.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_barrel_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_truss_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_plasticcrate_01.prefab
+- Assets/AllAccessAssets/Effects/Prefabs/PFX_DustSystem.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_fllight_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_doorsopen_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_bucket_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_propanetank_01.prefab
+- Assets/AllAccessAssets/SampleSectors/Prefabs/sm_sector_03.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_window_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_stairs_01.prefab
+- Assets/AllAccessAssets/SampleSectors/Prefabs/sm_sector_02.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_ducting_02.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/SM_Lathe01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_chainlinkfence_01.prefab
+- Assets/AllAccessAssets/Objects/Prefabs/sm_industrialshelves_02.prefab
+Dependencies:
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_mat2

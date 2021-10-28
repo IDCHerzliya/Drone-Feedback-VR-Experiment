@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2361480137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57b180c091d7454c292a26809d903304
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllAccessAssets/Objects/Materials/M_Truss_02.mat
+- Assets/AllAccessAssets/Objects/Meshes/Materials/M_Lathe_Alpha.mat
+- Assets/AllAccessAssets/Objects/Materials/M_PlasticCrate_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_PaintSupplies_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Glass_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_ConcreteBase_01.mat
+- Assets/Materials/G2.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Window_01.mat
+- Assets/Materials/G4_2.mat
+- Assets/Materials/Blank.mat
+- Assets/AllAccessAssets/Objects/Materials/M_ConcreteFloor_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Pipes_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Lathe_Main.mat
+- Assets/AllAccessAssets/Objects/Materials/M_AtticVent_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Wires_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Cinderblock_01.mat
+- Assets/AllAccessAssets/Effects/Materials/M_Smoke_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_FlLight_01.mat
+- Assets/Materials/G3.mat
+- Assets/AllAccessAssets/Objects/Materials/M_DullMetal_01.mat
+- Assets/AllAccessAssets/SampleSectors/Meshes/Materials/M_Cinderblock_02.mat
+- Assets/AllAccessAssets/Effects/Materials/M_WaterRipple_01.mat
+- Assets/Materials/G1.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Forklift_Chrome_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_VintageCrate_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_Bucket_01.mat
+- Assets/AllAccessAssets/SampleSectors/Meshes/Materials/M_ConcreteTrim_01.mat
+- Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+- Assets/AllAccessAssets/Objects/Materials/M_AtticVent_Grate_01.mat
+- Assets/AllAccessAssets/Objects/Materials/M_WoodenCrate_01.mat
+Dependencies:
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga1
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_tga2

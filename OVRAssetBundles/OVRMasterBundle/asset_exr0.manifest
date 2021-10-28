@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2271435114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35659728909c9b97d1cf321074dbc7dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6e651bdddca608c77d51fff2e12d033
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Factory/ReflectionProbe-7.exr
+- Assets/Scenes/Factory/Lightmap-4_comp_light.exr
+- Assets/Scenes/Factory/ReflectionProbe-5.exr
+- Assets/Scenes/Factory/Lightmap-2_comp_light.exr
+- Assets/Scenes/Factory/ReflectionProbe-2.exr
+- Assets/Scenes/Factory/ReflectionProbe-1.exr
+- Assets/Scenes/Factory/ReflectionProbe-6.exr
+- Assets/Scenes/Factory/ReflectionProbe-3.exr
+- Assets/Scenes/Factory/Lightmap-1_comp_light.exr
+- Assets/Scenes/Factory/Lightmap-7_comp_light.exr
+- Assets/Scenes/Factory/Lightmap-0_comp_light.exr
+- Assets/Scenes/Factory/ReflectionProbe-0.exr
+- Assets/Scenes/Factory/ReflectionProbe-4.exr
+- Assets/Scenes/Factory/Lightmap-5_comp_light.exr
+- Assets/Scenes/Factory/Lightmap-3_comp_light.exr
+- Assets/Scenes/Factory/Lightmap-6_comp_light.exr
+Dependencies: []

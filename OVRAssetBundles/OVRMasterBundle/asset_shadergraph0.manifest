@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4153981595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bc1907257ed4828c1e3203857aa3ead
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/LushkinR/Shaders/FogShader.shadergraph
+Dependencies:
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_shader0

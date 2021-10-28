@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 898844390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0438ca5b46a6ada953283146c5de784e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03aa784d18858976e2cdf8b9e8ea5e82
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllAccessAssets/Objects/Meshes/sm_gasjerrycan_01.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_concreteTrim_01.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_doorsclosed_01.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_oilbottle_01.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_ducting_02.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_industrialshelves_02.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_barrel_01.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_Cardboardbox_02.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_waterpipe_junction_01.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_chainlinkendpost_01.FBX
+- Assets/Drone/Drone.fbx
+- Assets/AllAccessAssets/Objects/Meshes/sm_Cagelight_01.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_waterpipe_01.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_FloorLight_01.FBX
+- Assets/AllAccessAssets/SampleSectors/Meshes/sm_sector_04.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_industrialshelves_03.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_woodencrate_01.FBX
+- Assets/AllAccessAssets/Objects/Meshes/SM_Lathe01.FBX
+- Assets/AllAccessAssets/SampleSectors/Meshes/sm_sector_03.FBX
+- Assets/AllAccessAssets/SampleSectors/Meshes/sm_sector_01.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_propanetank_01.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_truss_02.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_forklift_01.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_ducting_01.FBX
+- Assets/AllAccessAssets/SampleSectors/Meshes/sm_sector_02.FBX
+- Assets/AllAccessAssets/Objects/Meshes/sm_stairs_01.FBX
+Dependencies:
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- D:/DEV/Omri Project Andriod/OVRAssetBundles/OVRMasterBundle/asset_shader0
